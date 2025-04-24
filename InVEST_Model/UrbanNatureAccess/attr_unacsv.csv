@@ -1,0 +1,15 @@
+lucode,Description,urban_nature,search_radius_m
+1,Water,1,0
+2,Emergent Wetlands,1,800
+3,Tree Canopy,1,500
+4,Scrub/Shrub,1,700
+5,Low Vegetation,1,400
+6,Barren,0,0
+7,Impervious Structures,0,0
+8,Other Impervious,0,0
+9,Impervious Roads,0,0
+10,Tree Canopy Over Structures,0,0
+11,Tree Canopy Over Other Impervious,0,0
+12,Tree Canopy Over Impervious Roads,0,0
+254,Aberdeen Proving Ground,0,0
+255,background,0,0

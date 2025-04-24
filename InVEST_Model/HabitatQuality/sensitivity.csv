@@ -1,0 +1,15 @@
+LULC,NAME,HABITAT,structures,other imp,roads
+1,water,1,0,0,0.1
+2,wetlands,1,0.8,0.6,0.8
+3,tree,0.8,0.8,0.6,0.5
+4,shrub,0.4,0.8,0.6,1
+5,grassland,0.55,0.7,0.5,1
+6,barren,0,0,0,0
+7,structures,0,0,0,0
+8,other imp,0,0,0,0
+9,roads,0,0,0,0
+10,structures,0,0,0,0
+11,other imp,0,0,0,0
+12,roads,0,0,0,0
+254,APG,0,0,0,0
+255,nodata,0,0,0,0

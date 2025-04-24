@@ -1,0 +1,15 @@
+lucode,Description,Shade,Kc,Albedo,Green_area,building_intensity
+255,Background,0,0.0,0.0,0,0
+254,Background,0,0.0,0.0,0,0
+1,Water,1,1.0,0.06,1,0
+2,Emergent Wetland,1,1.0,0.11,1,0
+3,Mixed Forest,1,1.0,0.15,1,0
+4,Scrub/Shrub,1,1.0,0.2,1,0
+5,Grassland,1,1.0,0.2,1,0
+6,Barren,0,0.3,0.2,0,0
+7,Structures,0,0.37,0.18,0,1
+8,Other Imp,0,0.93,0.2,0,0
+9,Roads,0,0.93,0.2,0,0
+10,Structures,1,0.37,0.18,0,1
+11,Other Imp,1,0.93,0.2,0,0
+12,Roads,1,0.93,0.2,0,0
